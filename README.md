@@ -4,7 +4,7 @@ Please make sure a MySQL instance is running and listening to port 3306.
 A database named `productreview` is already created.
 
 
-#MongoDb
+# MongoDb
 Please make sure a MongoDb daemon is running and listening at port 27017 and the MongoDb user has appropriate credentials to create a `productreview` database.
 
 Please change properties in application.properties to match proper credentials for the application to connect to the database servers.
